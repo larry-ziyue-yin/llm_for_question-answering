@@ -1,4 +1,4 @@
-# srs_2024_wpaul
+# Large Language Model for Question-Answering
 
 ## Quick notes for collaborators of this SRS project
 
